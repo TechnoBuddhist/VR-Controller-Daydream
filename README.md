@@ -5,6 +5,8 @@ This is a 3D model of the Google Daydream Controller. The model is a low poly mo
 
 I have modified it to have separate objects for all the buttons and have re-textured. This was created specifically for the A-Frame project (http://aframe.io) but is free for use as long as you include this README and also attribute rje as requested.
 
+![Rendered Image](https://github.com/TechnoBuddhist/VR-Controller-Daydream/blob/master/vr_controller_daydream_render.png)
+
 Enjoy!
 
 
